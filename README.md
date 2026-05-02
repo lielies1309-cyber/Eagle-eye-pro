@@ -129,7 +129,7 @@ const App = () => {
             <Trophy size={20} className="text-emerald-300" />
             Eagle Eye Pro
           </h1>
-          <p className="text-emerald-200 text-xs font-medium uppercase tracking-wider">Pebble Beach GL</p>
+          <p className="text-emerald-200 text-xs font-medium uppercase tracking-wider">Live Round</p>
         </div>
         <div className="text-right">
           <p className="text-xs text-emerald-300 uppercase font-bold tracking-tighter">Total</p>
